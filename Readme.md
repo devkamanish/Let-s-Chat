@@ -44,7 +44,7 @@
 <h2 align="center">Home Page</h2>
 
 <p align="center">
-  <img src="frontend/public/HomePage.png" alt="SVG Screenshot" height="500"width="900" />
+  <img src="frontend/public/Homepage.png" alt="Homepage" height="500"width="900" />
 </p>
 
 
